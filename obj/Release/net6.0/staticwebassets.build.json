@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "P/YQnLLNYJlpPhULO3iCpPypCb6FlXu4ox5i49bnDDY=",
+  "Source": "Atividade 2",
+  "BasePath": "_content/Atividade 2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade 2\\wwwroot",
+      "Source": "Atividade 2",
+      "ContentRoot": "C:\\Users\\engsu\\Desktop\\SENAI\\Back end\\Atividade 2\\wwwroot\\",
+      "BasePath": "_content/Atividade 2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\engsu\\Desktop\\SENAI\\Back end\\Atividade 2\\wwwroot\\index.html",
+      "SourceId": "Atividade 2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\engsu\\Desktop\\SENAI\\Back end\\Atividade 2\\wwwroot\\",
+      "BasePath": "_content/Atividade 2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
